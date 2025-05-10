@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Vitor
+# 👋 Olá! Eu sou João Victor
 
 🎓 Estudante universitário | 💻 Desenvolvedor em formação | 📚 Apaixonado por tecnologia e educação
 
@@ -19,10 +19,9 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar projetos desenvolvidos
 ## 🛠️ Tecnologias que estou aprendendo e usando
 
 **Linguagens:**
-
-![JavaScript] 
-![C++] 
-![Python] 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 **Ferramentas e Frameworks:** 
  
