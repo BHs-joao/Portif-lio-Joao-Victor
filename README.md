@@ -12,7 +12,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar projetos desenvolvidos
 - 💡 Interessado no uso de tecnologia para transformar a educação;
 - 📱 Desenvolvendo o **Study Life**, um app para estudantes acompanharem provas, notas, livros e aulas;
 - 🧪 Realizando desafios práticos no **Bootcamp I**, com foco em versionamento e boas práticas de desenvolvimento;
-- 🌱 Aprendendo e aplicando tecnologias como JavaScript, React Native e Firebase.
+- 🌱 Aprendendo e aplicando tecnologias como JavaScript, C++ etc..
 
 ---
 
