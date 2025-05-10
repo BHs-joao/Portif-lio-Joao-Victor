@@ -29,7 +29,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar projetos desenvolvidos
 
 ## 📌 Principais Projetos
 
-| Projeto | Descrição | Tecnologias |
+| Projetos
 |--------|-----------|-------------|
 | 📱 Study Life App para organização acadêmica e acompanhamento de desempenho dos estudantes 
 | 🧠 Bootcamp I - Desafios do Bootcamp I com versionamento Git e boas práticas  
