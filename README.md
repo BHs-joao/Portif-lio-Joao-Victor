@@ -31,13 +31,13 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar projetos desenvolvidos
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 📱 Study Life App para organização acadêmica e acompanhamento de desempenho dos estudantes | React Native, Firebase |
-| 🧠 Bootcamp I - Desafios do Bootcamp I com versionamento Git e boas práticas | Git, Markdown |
+| 📱 Study Life App para organização acadêmica e acompanhamento de desempenho dos estudantes 
+| 🧠 Bootcamp I - Desafios do Bootcamp I com versionamento Git e boas práticas  
 
  
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaovitor) *(adicione seu link real)*
-- 📧 E-mail: joaovitor@email.com *(adicione seu e-mail real)*
-- 🐙 GitHub: [@joaovitor](https://github.com/joaovitor)
+- 💼 [LinkedIn] 
+- 📧 E-mail:  victorjoao4985@gmail.com
+- 🐙 GitHub: 
 
